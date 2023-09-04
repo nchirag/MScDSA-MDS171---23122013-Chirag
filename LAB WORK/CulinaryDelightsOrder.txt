@@ -8,4 +8,4 @@ Enter your choice: 2
 You ordered - Chapati		Rs.20
 Payment method: Cash
 Payment Successful
-Feedback: It was a good experience
+Feedback: GOOD TASTE AND SERVICE
