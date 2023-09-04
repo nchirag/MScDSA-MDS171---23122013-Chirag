@@ -1,0 +1,11 @@
+Welcome to Culinary Delights's RMS
+What do you wanna eat
+Menu for the day is:
+Menu for the day is:
+1) Rice		Rs.30
+2) Chapati		Rs.20
+Enter your choice: 2
+You ordered - Chapati		Rs.20
+Payment method: Cash
+Payment Successful
+Feedback: It was a good experience
