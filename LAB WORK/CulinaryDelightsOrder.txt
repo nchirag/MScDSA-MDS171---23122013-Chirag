@@ -6,6 +6,6 @@ Menu for the day is:
 2) Chapati		Rs.20
 Enter your choice: 1
 You ordered - Rice			Rs.30
-Payment method: Cash
+Payment method: Online Payment
 Payment Successful
-Feedback: Good
+Feedback: 5
